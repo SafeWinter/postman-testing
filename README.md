@@ -1,2 +1,3 @@
 # postman-testing
-Demo application for GitHub Actions with Postman's newman runner
+
+Demo application for integrating Postman's newman into GitHub Actions module.
